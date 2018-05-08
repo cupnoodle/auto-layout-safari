@@ -37,6 +37,7 @@ Source: [https://www.reddit.com/r/iOSProgramming/comments/7hc5xl/i_cant_wrap_my_
 - iPad
 
 ## Recommends / Buys
+- I used to use the visual format for writing AutoLayout constraints, but found that it was a real source of my problems – no auto-complete, and very cumbersome to update any time you need to add in a new element. This all lead it to being very error-prone, so I'd recommend steering clear from that.
 
 
 ## Worldview
