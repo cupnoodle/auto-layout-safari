@@ -39,5 +39,20 @@ Source: [https://www.reddit.com/r/iOSProgramming/comments/7hc5xl/i_cant_wrap_my_
 ## Recommends / Buys
 - I used to use the visual format for writing AutoLayout constraints, but found that it was a real source of my problems – no auto-complete, and very cumbersome to update any time you need to add in a new element. This all lead it to being very error-prone, so I'd recommend steering clear from that.
 
+- My favourite methods are now instead either using UIStackViews (completely removes the need to set any constraints) or the anchors APIs (might be relatively new; iOS 9 or something, maybe..?)
+
+- I would also note that the UIStackView method of UI layout is rather similar to CSS3 Flex(ible) Box. Would be more than happy to do all my layout in HTML if it could be done natively, to be honest.
+
+- The problem with auto layout is that winging it as you go along is not an option. With coding you often can, so we are used to it. You need a firm grasp of what is going on before doing anything, and trying stuff until you get it right isn't really much of an option.
+
+- Also never accept Apple's suggestions, they are, well, bad :)
+
+- I recommend trying to learn the concepts. Go view all the WWDC tutorials etc. I kinda gave up on tutorials as they mostly were concerned about building a UI, instead of explaining the concepts and trying to teach correct ways of doing thing.
+
+- Autolayout isn't magic and isn't unwieldy to use. It just have a higher than usual threshold to be useful
+
+- Auto-layout needs to be properly understood and applied systematically. So make sure you understand what every single constraint is doing, throwing them in at random until its 'all blue' is never going to work.
+
+- Also fewer and more generic constraints == better
 
 ## Worldview
