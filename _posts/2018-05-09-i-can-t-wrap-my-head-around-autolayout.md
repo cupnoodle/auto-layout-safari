@@ -86,5 +86,3 @@ Commenter's
 - AutoLayout isn’t magic but it’s magical. It does require you to think in abstract.
 - I find doing it in code helped me understand what was actually going on rather than just relying on Xcode's suggested "fixes"
 - AutoLayout is tough for complex layouts. Using Xcode to visually create constraints is awful. **So hard to update**. **"Xcode interface builder makes it difficult to update constraint if there is any changes"**
-
-

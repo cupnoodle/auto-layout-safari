@@ -3,7 +3,7 @@ layout: post
 title: "I'm giving up on Auto Layout"
 date: 2018-05-11 15:36 +0800
 categories: safari
-permalink: cant-wrap-head-around-autolayout
+permalink: giving-up-on-autolayout
 ---
 
 Source: [https://www.reddit.com/r/iOSProgramming/comments/3lmc20/im_giving_up_on_auto_layout/](https://www.reddit.com/r/iOSProgramming/comments/3lmc20/im_giving_up_on_auto_layout/)
@@ -23,6 +23,7 @@ Commenter's
 - I can not understand when someone says its nicer to do views in autolayout then in code. autolayout is such a strange and screwed abstraction, just the idea that you do part in code and part in IB is grrrrrrr.
 - (Auto Layout) Its more frustrating than code signing and developer certificate errors.
 - In autolayout you plaster the views in the IB like a 5 year old child and then you have to select and enter 100 constrains and create a useless buggy mess.
+- Auto Layout doesn't work with scrollview
 
 ## Jargon
 
@@ -69,9 +70,35 @@ Commenter's
 
 ## Worldview
 
+OP's 
 
+- Auto Layout is not worth the hassle to use
+- Why Auto Layout doesn't work the way I think?!
+- Persistent at first, then gave up when still can't understand after a while
+- Auto Layout is straightforward in IB
+- Auto Layout doesn't work with animation
+- Auto Layout doesn't work if you use it programmatically
 
+Commenter's
 
+- Can't mix autolayout and frame for the same layout
+- Easier to learn Auto Layout when you can see it visually and the relations
+- Once you grasp the intention and thought process behind Auto Layout **it's incredibly nice**
+- It's easy to learn about Auto Layout online as there are lots of online resources
+- Always ask for help if you are stuck
+- I find using third party library/wrapper for Auto Layout make the situation worse, especially as you're learning (Using third party library doesn't solve your auto layout problem, and its harder to understand what go wrong as there is now one more layer)
+- Understanding of fundamentals of Auto Layout is more important than using workaround to circumvent it
+- Once I understand/realize the intention of Auto Layout and how it works, it is easy to use and save time and energy.
+- Mixing layout creation using GUI and code together will cause confusion / inconvenience
+- Auto Layout is more complex than the problem (catering UI to different screen sizes)
+- Auto Layout is overkill / too complex for the most basic version of the problem, but for complicated interfaces that depend on a lot of variables (text length changing in other languages, arbitrarily sized user content, etc) it's much less complicated than the problem
+- Auto Layout doesn't work on scrollview
+- There are many third party library because Auto Layout is too difficult to use
+- Autolayout is a very very simple system and can be described with one simple equation
+- **Don't fight the system** (Don't go against the default way / tool / method Apple has given us)
+- Using Auto Layout to make responsive UI is very fast once you understand it
+- Be wary of others advice
+- Taking time to understand the fundamental of Auto Layout is important
 
 
 
