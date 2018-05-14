@@ -46,6 +46,7 @@ permalink: pain-dream-fix
 <br /><br />
 <span class="pain">Pain</span>: I’ve watched bunch of Youtube videos and read about 30 tutorials on AutoLayout up to now, but it isn’t clicking for me  
 <span class="pain">Further Pain</span>: “Most tutorials on the internet teach me how to achieve a specific one user interface but didn’t explain much on how the fundamentals of Auto Layout work, **I have no idea when it comes to designing my own user interface from scratch**”  
+<span class="pain">Further Pain</span>: “I have watched many Youtube tutorials and when I go to try it, I still don't know what i'm doing”  
 <span class="negate">Negate</span>: I understand how the fundamentals of Auto Layout works and design the user interface I wanted  
 <span class="dream">Dream</span>: I can design my own user interface confidently that looks great across all iPhone and iPad using Auto Layout  
 <span class="fix">Fix</span>: My Ebook **Making Sense of Auto Layout** will teach you about the fundamentals of how Auto Layout works and you will be able to design user interface from scratch confidently
