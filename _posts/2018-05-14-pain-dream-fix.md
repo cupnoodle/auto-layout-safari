@@ -61,3 +61,6 @@ permalink: pain-dream-fix
 <span class="dream">Dream</span>: I can confidently design user interface that looks great across all iPhone and iPad  
 <span class="fix">Fix</span>: My Ebook **Making Sense of Auto Layout** will teach you about the fundamentals of how Auto Layout works and you will be able to apply concept explained inside to troubleshoot layout error and design user interface that looks great across all iPhone and iPad
 <br /><br />
+hidden pain: "i'm watching all this stuff and when i go to try it i still don't know what i'm doing" aka lots of watching and no hands-on practice aka waiting until they "feel ready" before they open up an editor
+same pain appears in React-land - nobody says "i made 10 tiny apps and i still don't get it", they say "i bought 3 courses and i still don't get it"
+for the last one, the dream does obliterate any mention of "constraints" but maybe you could work it in like "I can bend constraints to my will to create apps that render perfectly on any screen size"
