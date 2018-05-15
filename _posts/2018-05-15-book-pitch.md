@@ -49,4 +49,10 @@ Sometime you managed to do the layout shown in the video, but when it comes to y
   <div class="how">How do I even?</div>
 </div>
 
-When you ask for advice on internet forum, you're told to do Auto Layout in code, use some library like SnapKit
+When you ask for advice on internet forum, you get different conflicting advices. "Ditch the Interface Builder, do Auto Layout in code!", "Use library like SnapKit!", "Try UIStackViews!". Which advice should you take?
+
+# What if you could bend constraints to your will and create user interface that render perfectly on any screen size?
+What if you knew **exactly** which constraint to place for each element? You'd be confident to troubleshoot whatever red lines Xcode has thrown at you. **You could finish the app that you have been working on for 3 months and proudly ship it to the App Store**.
+
+# Don't let Auto Layout stop you from shipping your first app to the App Store
+Learn the fundamentals of how Auto Layout work and why Apple designed it this way. Understand Auto Layout and let it help you design user interface more efficiently and ship your app faster.
