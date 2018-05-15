@@ -184,6 +184,10 @@ Instead of showing you a specific complex layout to follow step by step, this bo
 
 The book is currently work in progress, the final format with be a PDF with Xcode project exercise included.
 
+# Testimonial on draft of the book
+> "dude... wow... good job on this series! One of the best explanations I've read!"
+>  -- [Alex Kluew](https://twitter.com/getaclue_1)
+
 <div class="post-subscribe">
   <h4 data-drip-attribute="headline">Notify me when <i>Making Sense of Auto Layout</i> is launched</h4>
   <span style="font-size:1rem;"> 
