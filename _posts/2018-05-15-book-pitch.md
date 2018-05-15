@@ -176,6 +176,7 @@ Instead of showing you a specific complex layout to follow step by step, this bo
 - Why missing constraints (<span class="red">Red lines!</span>) appear and how to solve them
 - Why conflicting constraints (<span class="red">Red lines, with numbers!</span>) happen and how to solve them
 - What is intrinsic content size and the importance of it
+- What is Stackview and how does it simplify constraints
 - Using Tableview for content with dynamic length
 - Using Scrollview for content with dynamic length
 - What is constraint priority and when to use it
