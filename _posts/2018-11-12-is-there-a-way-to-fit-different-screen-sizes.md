@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is there a good tutorial/video/other source specifically for making your app display at variable sizes to fit different screen sizes??"
-date: 2018-11-14 15:36 +0800
+date: 2018-11-12 15:36 +0800
 categories: safari
 permalink: is-there-a-tutorial-for-fitting-different-screen-sizes
 ---

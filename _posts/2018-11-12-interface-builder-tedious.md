@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interface Builder + Auto layout is such a tedious system for designing views"
-date: 2018-11-14 15:36 +0800
+date: 2018-11-12 15:36 +0800
 categories: safari
 permalink: interface-builder-tedious
 ---

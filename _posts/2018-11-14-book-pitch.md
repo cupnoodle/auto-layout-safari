@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Sense of Auto Layout
-date: 2018-05-15 03:47 +0800
+date: 2018-11-14 03:47 +0800
 permalink: book-pitch
 ---
 
@@ -34,18 +34,18 @@ input[type="submit"] {
 }
 button[disabled],
 html input[disabled] {
-    cursor: default;
+​    cursor: default;
 }
 button::-moz-focus-inner,
 input::-moz-focus-inner {
-    padding: 0;
-    border: 0;
+​    padding: 0;
+​    border: 0;
 }
 input {
-    line-height: normal;
+​    line-height: normal;
 }
 input:focus {
-    outline: none;
+​    outline: none;
 }
 
 .drop-shadow{

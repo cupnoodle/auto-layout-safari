@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are there any good tools to help deal with issues that result from bad or invalid Autolayout constraints?"
-date: 2018-11-14 15:36 +0800
+date: 2018-11-12 15:36 +0800
 categories: safari
 permalink: deal-with-constraint-issues
 ---

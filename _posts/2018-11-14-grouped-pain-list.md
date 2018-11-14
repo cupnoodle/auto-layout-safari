@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serial Killer Wall"
-date: 2018-05-11 22:23 +0800
+date: 2018-11-14 22:23 +0800
 permalink: grouped-pain-list
 ---
 
